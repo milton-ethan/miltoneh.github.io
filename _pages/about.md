@@ -25,4 +25,4 @@ Ethan etc.
 
 [Predicting Biaxial Failure Strengths of Aortic Tissues Using a Dispersed Fiber Failure Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4988347).
 
-<img src="/assets/img/headshot28.jpg" alt="Ethan Milton" style="width:200px;"/>
+<img src="/assets/img/headshot28.jpg" alt="Ethan Milton";"/>
