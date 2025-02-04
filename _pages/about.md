@@ -13,7 +13,7 @@ Ethan etc. etc.
 
 ## Technical Skills
 
-David etc.
+Ethan etc.
 
 * etc.
 
@@ -23,4 +23,4 @@ David etc.
 [Insights by Atomic Force Microscopy into Simultaneous Mineralization Across Layers in Tooth Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4975892).
 [Predicting Biaxial Failure Strengths of Aortic Tissues Using a Dispersed Fiber Failure Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4988347).
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+<img src="/assets/img/headshot (28).jpg" alt="Ethan Milton" style="width:200px;"/>
