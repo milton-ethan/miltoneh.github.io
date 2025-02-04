@@ -11,12 +11,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Florian"
+title                    : "Ethan Milton"
 title_separator          : "-"
 subtitle                 : "Example Website for Class"
-name                     : &name "David Florian" # &name is a YAML anchor which can be *referenced later
-description              : &description "Example website for class "
-url                      : https://davidflorianjr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ethan Milton" # &name is a YAML anchor which can be *referenced later
+description              : &description "Personal Website for CHBE 4200 Class "
+url                      : https://miltoneh.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -99,25 +99,25 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "assets/img/David_Headshot_web2.jpg"
   bio              : "An engineer with a passion for teaching "
-  location         : "Nashville, TN"
+  location         : "Nashville, TN; Miami, FL"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
-    - label: "Instagram"
+    - label: "Google Sites"
+      icon: "fab fa-fw fa-google"
+      url: "https://sites.google.com/view/ethanmilton"
+    - label: "Generative Art Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      url: "https://www.instagram.com/adorescoding/"
 
 
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
-    - label: "Instagram"
+    - label: "Google Sites"
+      icon: "fab fa-fw fa-google"
+      url: "https://sites.google.com/view/ethanmilton"
+    - label: "Generative Art Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      url: "https://www.instagram.com/adorescoding/"
 
 
 # Reading Files
