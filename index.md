@@ -18,7 +18,7 @@ feature_row:
     alt: "Flow Field Art of Me"
     title: "Programming & Generative Art"
     excerpt: "Art and simulations programmed in Java"
-  - image_path: assets/img/French Horn 2.jpg
+  - image_path: assets/img/French Horn 2.png
     title: "Music and Other Interests"
     alt: "Me playing French Horn"
     excerpt: "Outdoors, Music, Writing"
