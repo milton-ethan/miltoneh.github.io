@@ -1,31 +1,26 @@
 ---
 
-title: "About David Florian"
+title: "About Ethan Milton"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Ethan etc. etc.
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BS Engineering (Expected 2025)
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+David etc.
 
-* Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* etc.
 
-## Press 
+## Publications 
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+[Minimally invasive healing of bone implant-cement interfaces by aerogel cement and remote heating](https://www.sciencedirect.com/science/article/pii/S2666998624006379).
+[Insights by Atomic Force Microscopy into Simultaneous Mineralization Across Layers in Tooth Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4975892).
+[Predicting Biaxial Failure Strengths of Aortic Tissues Using a Dispersed Fiber Failure Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4988347).
 
 <img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
