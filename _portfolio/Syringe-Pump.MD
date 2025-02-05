@@ -55,10 +55,6 @@ DIY syringe pump created for Vanderbilt Digital Fabrication 2100 class, capable 
 | <ins>3D Printed</ins>              |             |
 | C-Beam Gantry Plate                | 1           |
 
-
-
 ---
-
-You can copy and paste this Markdown into any viewer or editor that supports Markdown formatting.
 
 {% include gallery caption="High quality renders of syringe pump." %}
