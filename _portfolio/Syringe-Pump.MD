@@ -2,8 +2,8 @@
 title: "Syringe Pump"
 excerpt: "This is a syringe pump."
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  image: /assets/img/Linear-Actuator-Rendering-1.png
+  teaser: /assets/img/Linear-Actuator-Rendering-1.png
 gallery:
   - url: /assets/img/Linear-Actuator-Rendering-1.png
     image_path: assets/img/Linear-Actuator-Rendering-1.png
