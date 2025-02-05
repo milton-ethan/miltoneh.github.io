@@ -24,5 +24,5 @@ Ethan etc.
 [Insights by Atomic Force Microscopy into Simultaneous Mineralization Across Layers in Tooth Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4975892).
 
 [Predicting Biaxial Failure Strengths of Aortic Tissues Using a Dispersed Fiber Failure Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4988347).
-
+---
 <img src="/assets/img/headshot28_square.jpg" alt="Ethan Milton" width="200"/>
