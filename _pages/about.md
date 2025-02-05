@@ -4,6 +4,10 @@ title: "About Ethan Milton"
 
 ---
 
+<p align="center">
+  <img src="/assets/img/headshot29.png" width="300px">
+</p>
+
 ## Education
 
 Ethan etc. etc.
@@ -25,5 +29,4 @@ Ethan etc.
 
 [Predicting Biaxial Failure Strengths of Aortic Tissues Using a Dispersed Fiber Failure Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4988347).
 
-![image](/assets/img/headshot29.png)
 
