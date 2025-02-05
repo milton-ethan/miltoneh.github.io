@@ -24,9 +24,9 @@ DIY syringe pump created for Vanderbilt Digital Fabrication 2100 class, capable 
 ---
 # Bill of Materials
 
-| **Part Name**                       | **Quantity** |
+| <ins>**Part Name**</ins>                       | <ins>**Quantity**</ins> |
 |------------------------------------|-------------|
-|        <ins>Linear Actuator</ins>        |             |
+|        **Linear Actuator**        |             |
 | <ins>Off the Shelf</ins>           |             |
 | Ball Bearing 8 x 16 x 5            | 2           |
 | Low Profile Screw M5x15            | 8           |
@@ -40,7 +40,7 @@ DIY syringe pump created for Vanderbilt Digital Fabrication 2100 class, capable 
 | <ins>3D Printed</ins>              |             |
 | Flexible Coupler                   | 1           |
 | Motor Mount                        | 2           |
-| <ins>        Carriage        </ins>|             |
+|         **Carriage**        |             |
 | <ins>Off the Shelf</ins>           |             |
 | Low Profile Screw M5x25            | 4           |
 | Xtreme Mini V Wheel v2             | 4           |
