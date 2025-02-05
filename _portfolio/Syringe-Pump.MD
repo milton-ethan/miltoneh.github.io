@@ -40,7 +40,7 @@ DIY syringe pump created for Vanderbilt Digital Fabrication 2100 class, capable 
 | <ins>3D Printed</ins>              |             |
 | Flexible Coupler                   | 1           |
 | Motor Mount                        | 2           |
-|        <ins>Carriage</ins>        |             |
+| <ins>        Carriage        </ins>|             |
 | <ins>Off the Shelf</ins>           |             |
 | Low Profile Screw M5x25            | 4           |
 | Xtreme Mini V Wheel v2             | 4           |
