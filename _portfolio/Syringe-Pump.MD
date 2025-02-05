@@ -26,8 +26,8 @@ Below is one way to convert the table into Markdown. Each main section ("Linear 
 ---
 | Part Name                           | Quantity |
 | ----------------------------------- | -------- |
-| **Linear Actuator**                |          |
-| **Off the Shelf**                  |          |
+| Linear Actuator                    | 0        |
+| Off the Shelf                      | 0        |
 | Ball Bearing 8 x 16 x 5            | 2        |
 | Low Profile Screw M5x15            | 8        |
 | Aluminum Spacer 40mm               | 2        |
@@ -37,11 +37,11 @@ Below is one way to convert the table into Markdown. Each main section ("Linear 
 | Lead-Screw-8mm v1                  | 1        |
 | Nema 23 Stepper Motor              | 1        |
 | Lock Collar 8mm                    | 2        |
-| **3D Printed**                     |          |
+| **3D Printed**                     | 0        |
 | Flexible Coupler                   | 1        |
 | Motor Mount                        | 2        |
-| **Carriage**                       |          |
-| **Off the Shelf**                  |          |
+| Carriage                           | 0        |
+| Off the Shelf                      | 0        |
 | Low Profile Screw M5x25            | 4        |
 | Xtreme Mini V Wheel v2             | 4        |
 | Ball Bearing 5 x 10 x 4.2          | 2        |
@@ -52,7 +52,7 @@ Below is one way to convert the table into Markdown. Each main section ("Linear 
 | Aluminum Spacer 6mm                | 2        |
 | Mini Eccentric Spacer 6mm          | 2        |
 | 8mm Acme Nut Block                 | 1        |
-| **3D Printed**                     |          |
+| 3D Printed                         | 0        |
 | C-Beam Gantry Plate                | 1        |
 
 ---
