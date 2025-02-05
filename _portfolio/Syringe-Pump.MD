@@ -5,14 +5,14 @@ header:
   image: /assets/img/Cyber-Scooter-Banner.jpg
   teaser: /assets/img/Cyber-Scooter-TH.jpg
 gallery:
-  - url: /assets/img/Linear Actuator Rendering 1.png
-    image_path: assets/img/Linear Actuator Rendering 1.png
+  - url: /assets/img/Linear-Actuator-Rendering-1.png
+    image_path: assets/img/Linear-Actuator-Rendering-1.png
     alt: "Rendering 1"
-  - url: /assets/img/Linear Actuator Rendering 2.png
-    image_path: assets/img/Linear Actuator Rendering 2.png
+  - url: /assets/img/Linear-Actuator-Rendering-2.png
+    image_path: assets/img/Linear-Actuator-Rendering-2.png
     alt: "Rendering 2"
-  - url: /assets/img/Linear Actuator Rendering 3.png
-    image_path: assets/img/Linear Actuator Rendering 3.png
+  - url: /assets/img/Linear-Actuator-Rendering-3.png
+    image_path: assets/img/Linear-Actuator-Rendering-3.png
     alt: "Rendering 3"
 ---
 
