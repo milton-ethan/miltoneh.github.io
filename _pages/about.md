@@ -5,7 +5,7 @@ title: "About Ethan Milton"
 ---
 
 <p align="center">
-  <img src="/assets/img/headshot29.png" width="300px">
+  <img src="/assets/img/Cyber-Scooter-7.jpg" width="300px">
 </p>
 
 ## Education
