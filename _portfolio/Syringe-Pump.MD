@@ -24,11 +24,8 @@ DIY syringe pump created for Vanderbilt Digital Fabrication 2100 class, capable 
 Below is one way to convert the table into Markdown. Each main section ("Linear Actuator," "Carriage") is split into two smaller tables: **Off the Shelf** and **3D Printed**.
 
 ---
-Below is the table in Markdown format, separated by category (Linear Actuator and Carriage) and sub-category (Off the Shelf and 3D Printed).
-
----
-| Part Name                          | Quantity |
-|------------------------------------|----------|
+| Part Name                           | Quantity |
+| ----------------------------------- | -------- |
 | **Linear Actuator**                |          |
 | **Off the Shelf**                  |          |
 | Ball Bearing 8 x 16 x 5            | 2        |
