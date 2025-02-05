@@ -22,38 +22,39 @@ DIY syringe pump created for Vanderbilt Digital Fabrication 2100 class, capable 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4dd1b2d391195116f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ---
+#Bill of Materials
 
+| **Part Name**                       | **Quantity** |
+|------------------------------------|-------------|
+| __Linear Actuator__                |             |
+| __Off the Shelf__                  |             |
+| Ball Bearing 8 x 16 x 5            | 2           |
+| Low Profile Screw M5x15            | 8           |
+| Aluminum Spacer 40mm               | 2           |
+| Low Profile Screw M5x50            | 2           |
+| Shim Washer 8mm                    | 2           |
+| C-Beam 40x80x500 Linear Rail       | 1           |
+| Lead-Screw-8mm v1                  | 1           |
+| Nema 23 Stepper Motor              | 1           |
+| Lock Collar 8mm                    | 2           |
+| __3D Printed__                     |             |
+| Flexible Coupler                   | 1           |
+| Motor Mount                        | 2           |
+| __Carriage__                       |             |
+| __Off the Shelf__                  |             |
+| Low Profile Screw M5x25            | 4           |
+| Xtreme Mini V Wheel v2             | 4           |
+| Ball Bearing 5 x 10 x 4.2          | 2           |
+| Low Profile Screw M5x20            | 2           |
+| Aluminum Spacer 3mm                | 2           |
+| Nylon Insert Lock Nut M5           | 2           |
+| Precision Shim 8 x 5 x 1           | 5           |
+| Aluminum Spacer 6mm                | 2           |
+| Mini Eccentric Spacer 6mm          | 2           |
+| 8mm Acme Nut Block                 | 1           |
+| __3D Printed__                     |             |
+| C-Beam Gantry Plate                | 1           |
 
-| Part Name                           | Quantity |
-| ----------------------------------- | -------- |
-| Linear Actuator                    | 0        |
-| Off the Shelf                      | 0        |
-| Ball Bearing 8 x 16 x 5            | 2        |
-| Low Profile Screw M5x15            | 8        |
-| Aluminum Spacer 40mm               | 2        |
-| Low Profile Screw M5x50            | 2        |
-| Shim Washer 8mm                    | 2        |
-| C-Beam 40x80x500 Linear Rail       | 1        |
-| Lead-Screw-8mm v1                  | 1        |
-| Nema 23 Stepper Motor              | 1        |
-| Lock Collar 8mm                    | 2        |
-| 3D Printed                         | 0        |
-| Flexible Coupler                   | 1        |
-| Motor Mount                        | 2        |
-| Carriage                           | 0        |
-| Off the Shelf                      | 0        |
-| Low Profile Screw M5x25            | 4        |
-| Xtreme Mini V Wheel v2             | 4        |
-| Ball Bearing 5 x 10 x 4.2          | 2        |
-| Low Profile Screw M5x20            | 2        |
-| Aluminum Spacer 3mm                | 2        |
-| Nylon Insert Lock Nut M5           | 2        |
-| Precision Shim 8 x 5 x 1           | 5        |
-| Aluminum Spacer 6mm                | 2        |
-| Mini Eccentric Spacer 6mm          | 2        |
-| 8mm Acme Nut Block                 | 1        |
-| 3D Printed                         | 0        |
-| C-Beam Gantry Plate                | 1        |
 
 
 ---
