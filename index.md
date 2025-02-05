@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Welcome!"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Ethan etc. Excerpt from index.md file"
+excerpt: "This is a persronal website used to showcase my education, projects, and a bit of who I am. If you'd like, have a look around."
 feature_row:
   - image_path: assets/img/Linear-Actuator-Render-1.jpg
     alt: "Syringe Pump Render"
