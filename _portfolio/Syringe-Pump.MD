@@ -26,8 +26,8 @@ DIY syringe pump created for Vanderbilt Digital Fabrication 2100 class, capable 
 
 | **Part Name**                       | **Quantity** |
 |------------------------------------|-------------|
-| __Linear Actuator__                |             |
-| __Off the Shelf__                  |             |
+| <ins>Linear Actuator</ins>         |             |
+| <ins>Off the Shelf</ins>           |             |
 | Ball Bearing 8 x 16 x 5            | 2           |
 | Low Profile Screw M5x15            | 8           |
 | Aluminum Spacer 40mm               | 2           |
@@ -37,11 +37,11 @@ DIY syringe pump created for Vanderbilt Digital Fabrication 2100 class, capable 
 | Lead-Screw-8mm v1                  | 1           |
 | Nema 23 Stepper Motor              | 1           |
 | Lock Collar 8mm                    | 2           |
-| __3D Printed__                     |             |
+| <ins>3D Printed</ins>              |             |
 | Flexible Coupler                   | 1           |
 | Motor Mount                        | 2           |
-| __Carriage__                       |             |
-| __Off the Shelf__                  |             |
+| <ins>Carriage</ins>                |             |
+| <ins>Off the Shelf</ins>           |             |
 | Low Profile Screw M5x25            | 4           |
 | Xtreme Mini V Wheel v2             | 4           |
 | Ball Bearing 5 x 10 x 4.2          | 2           |
@@ -52,7 +52,7 @@ DIY syringe pump created for Vanderbilt Digital Fabrication 2100 class, capable 
 | Aluminum Spacer 6mm                | 2           |
 | Mini Eccentric Spacer 6mm          | 2           |
 | 8mm Acme Nut Block                 | 1           |
-| __3D Printed__                     |             |
+| <ins>3D Printed</ins>              |             |
 | C-Beam Gantry Plate                | 1           |
 
 
