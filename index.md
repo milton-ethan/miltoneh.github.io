@@ -10,7 +10,7 @@ header:
       url: "/portfolio/"
 excerpt: "This is a persronal website used to showcase my education, some of my projects, and a little bit of who I am. If you'd like, have a look around."
 feature_row:
-  - image_path: assets/img/Linear-Actuator-Render-1.png
+  - image_path: assets/img/Linear-Actuator-Rendering-1.png
     alt: "Syringe Pump Render"
     title: "Engineering"
     excerpt: "MechE, CS, and Digital Fabrication"
