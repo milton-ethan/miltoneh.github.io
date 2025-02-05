@@ -27,7 +27,6 @@ Below is one way to convert the table into Markdown. Each main section ("Linear 
 Below is the table in Markdown format, separated by category (Linear Actuator and Carriage) and sub-category (Off the Shelf and 3D Printed).
 
 ---
-# Bill of Materials
 | Part Name                          | Quantity |
 |------------------------------------|----------|
 | **Linear Actuator**                |          |
