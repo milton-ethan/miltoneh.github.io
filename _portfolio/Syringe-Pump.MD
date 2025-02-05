@@ -27,13 +27,11 @@ Below is one way to convert the table into Markdown. Each main section ("Linear 
 Below is the table in Markdown format, separated by category (Linear Actuator and Carriage) and sub-category (Off the Shelf and 3D Printed).
 
 ---
-
-## Linear Actuator
-
-### Off the Shelf
-
-| Part Name                           | Quantity |
-| ----------------------------------- | -------- |
+# Bill of Materials
+| Part Name                          | Quantity |
+|------------------------------------|----------|
+| **Linear Actuator**                |          |
+| **Off the Shelf**                  |          |
 | Ball Bearing 8 x 16 x 5            | 2        |
 | Low Profile Screw M5x15            | 8        |
 | Aluminum Spacer 40mm               | 2        |
@@ -43,38 +41,23 @@ Below is the table in Markdown format, separated by category (Linear Actuator an
 | Lead-Screw-8mm v1                  | 1        |
 | Nema 23 Stepper Motor              | 1        |
 | Lock Collar 8mm                    | 2        |
-
-### 3D Printed
-
-| Part Name         | Quantity |
-| ----------------- | -------- |
-| Flexible Coupler  | 1        |
-| Motor Mount       | 2        |
-
----
-
-## Carriage
-
-### Off the Shelf
-
-| Part Name                  | Quantity |
-| -------------------------- | -------- |
-| Low Profile Screw M5x25    | 4        |
-| Xtreme Mini V Wheel v2     | 4        |
-| Ball Bearing 5 x 10 x 4.2  | 2        |
-| Low Profile Screw M5x20    | 2        |
-| Aluminum Spacer 3mm        | 2        |
-| Nylon Insert Lock Nut M5   | 2        |
-| Precision Shim 8 x 5 x 1   | 5        |
-| Aluminum Spacer 6mm        | 2        |
-| Mini Eccentric Spacer 6mm  | 2        |
-| 8mm Acme Nut Block         | 1        |
-
-### 3D Printed
-
-| Part Name            | Quantity |
-| -------------------- | -------- |
-| C-Beam Gantry Plate  | 1        |
+| **3D Printed**                     |          |
+| Flexible Coupler                   | 1        |
+| Motor Mount                        | 2        |
+| **Carriage**                       |          |
+| **Off the Shelf**                  |          |
+| Low Profile Screw M5x25            | 4        |
+| Xtreme Mini V Wheel v2             | 4        |
+| Ball Bearing 5 x 10 x 4.2          | 2        |
+| Low Profile Screw M5x20            | 2        |
+| Aluminum Spacer 3mm                | 2        |
+| Nylon Insert Lock Nut M5           | 2        |
+| Precision Shim 8 x 5 x 1           | 5        |
+| Aluminum Spacer 6mm                | 2        |
+| Mini Eccentric Spacer 6mm          | 2        |
+| 8mm Acme Nut Block                 | 1        |
+| **3D Printed**                     |          |
+| C-Beam Gantry Plate                | 1        |
 
 ---
 
