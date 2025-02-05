@@ -4,10 +4,6 @@ title: "About Ethan Milton"
 
 ---
 
-<p align="center">
-  <img src="/assets/img/Cyber-Scooter-7.jpg" width="300px">
-</p>
-
 ## Education
 
 Ethan etc. etc.
@@ -28,5 +24,3 @@ Ethan etc.
 [Insights by Atomic Force Microscopy into Simultaneous Mineralization Across Layers in Tooth Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4975892).
 
 [Predicting Biaxial Failure Strengths of Aortic Tissues Using a Dispersed Fiber Failure Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4988347).
-
-
