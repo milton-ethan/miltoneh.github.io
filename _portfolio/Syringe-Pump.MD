@@ -35,7 +35,7 @@ DIY syringe pump created for Vanderbilt Digital Fabrication 2100 class, capable 
 | Lead-Screw-8mm v1                  | 1        |
 | Nema 23 Stepper Motor              | 1        |
 | Lock Collar 8mm                    | 2        |
-| **3D Printed**                     | 0        |
+| 3D Printed                         | 0        |
 | Flexible Coupler                   | 1        |
 | Motor Mount                        | 2        |
 | Carriage                           | 0        |
