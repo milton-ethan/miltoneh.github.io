@@ -12,13 +12,32 @@ My name is Ethan Milton, I'm a Mechanical Engineering senior at Vanderbilt Unive
   * BS Engineering (Expected 2025)
     * Minor: Computer Science
     * Minor: Digital Fabrication
-  
+* Research Experience
+  * Summer 2023 - Florida Atlantic University - Dr. Erik Engeberg
+  * Spring 2024 - Vanderbilt University - Dr. Xiaoguang Dong
+  * Summer 2024 - Texas A&M University - Dr. Yuxiao Zhou
 
 ## Technical Skills
-
-Ethan etc.
-
-* etc.
+* Mechanical Engineering
+  * Computer Aided Design (CAD)
+    * SOLIDWORKS (CWSA Certified)
+    * Autodesk Fusion 360
+* Digital Fabrication
+  * FFF 3D Printing
+  * SLA Resin Printing
+  * Machining (Lathe, Mill, CNC, etc.)
+  * Lasercutting.
+* Computer Science
+  * Java: Five and a half years.
+  * C++: One year.
+  * Python: One year.
+  * Light experience in:
+    * MATLAB
+    * Kotlin
+    * NI LabVIEW
+    * Android Studio
+    * Javascript
+    * HTML & CSS
 
 ## Publications 
 
