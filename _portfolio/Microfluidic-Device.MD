@@ -21,7 +21,7 @@ Microfluidic devices are small-scale systems designed to control and process tin
 
 Pinched flow fractionation (PFF) is a passive microfluidic technique used for continuously sorting particles by size within a channel. It relies on laminar flow properties, where a particle-free fluid focuses the particle-containing fluid as they pass through a narrow "pinched segment." In this region, the particles are pushed against one of the channel’s sidewalls, and align based on their size, with smaller particles positioned closer to the wall and larger particles closer to the channel center. As the flow exits the pinched segment into a broader section, particles separate along their streamlines. Their final position can be calculated as a function of the pinched and broad section widths as well as the particle diameters. 
 
-This method enables precise particle sorting without requiring external forces, making it useful for applications involving droplet or cell separation. One potential use case could be separating cancer cells from blood cells in a blood sample.
+This method enables precise particle sorting without requiring external forces, making it useful for applications involving droplet or cell separation. One potential use case could be separating circulating tumor cells (CTC's) from white blood cells in a blood sample.
 
 ## Instructions
 
