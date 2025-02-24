@@ -1,0 +1,27 @@
+---
+title: "Microfluidic Device"
+excerpt: "Microfluidic particle seperator from Vanderbilt Digital Fabrication CHBE 4200 Class"
+header:
+  image: /assets/img/Linear-Actuator-Rendering-1.png
+  teaser: /assets/img/Linear-Actuator-Rendering-1.png
+gallery:
+  - url: /assets/img/Linear-Actuator-Rendering-1.png
+    image_path: assets/img/Linear-Actuator-Rendering-1.png
+    alt: "Rendering 1"
+  - url: /assets/img/Linear-Actuator-Rendering-2.png
+    image_path: assets/img/Linear-Actuator-Rendering-2.png
+    alt: "Rendering 2"
+  - url: /assets/img/Linear-Actuator-Rendering-3.png
+    image_path: assets/img/Linear-Actuator-Rendering-3.png
+    alt: "Rendering 3"
+---
+
+Some text about the microfluidic device.
+
+# CAD MODEL
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4dd1b2d391195116f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+---
+
+{% include gallery caption="High quality renders of syringe pump." %}
+
+---
