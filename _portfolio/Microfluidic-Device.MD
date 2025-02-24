@@ -2,17 +2,17 @@
 title: "Microfluidic Device"
 excerpt: "Microfluidic particle seperator from Vanderbilt Additive and Polymer-based Manufacturing Class (CHBE 4200)"
 header:
-  image: /assets/img/Linear-Actuator-Rendering-1.png
-  teaser: /assets/img/Linear-Actuator-Rendering-1.png
+  image: /assets/img/microfluidic1.png
+  teaser: /assets/img/img/microfluidic1.png
 gallery:
-  - url: /assets/img/Linear-Actuator-Rendering-1.png
-    image_path: assets/img/Linear-Actuator-Rendering-1.png
+  - url: /assets/img/microfluidic1.png
+    image_path: assets/img/microfluidic1.png
     alt: "Rendering 1"
-  - url: /assets/img/Linear-Actuator-Rendering-2.png
-    image_path: assets/img/Linear-Actuator-Rendering-2.png
+  - url: /assets/img/microfluidic2.png
+    image_path: assets/img/microfluidic2.png
     alt: "Rendering 2"
-  - url: /assets/img/Linear-Actuator-Rendering-3.png
-    image_path: assets/img/Linear-Actuator-Rendering-3.png
+  - url: /assets/img/microfluidic3.png
+    image_path: assets/img/microfluidic3.png
     alt: "Rendering 3"
 ---
 
