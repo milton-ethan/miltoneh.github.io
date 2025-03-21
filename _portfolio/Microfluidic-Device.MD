@@ -70,9 +70,7 @@ In the final step of the microfluidic device creation process, the PDMS is demol
 ## Discussion
 My microfluidic device has a variety of features making it optimal for particle sorting, (which, as mentioned, can be used for such cases as separating circulating tumor cells (CTC's) from white blood cells in a blood sample, or removing impurities from an industrial powder, for example). The device is designed parametrically based on the following formula, which relates the particle outlet position to the pinched flow fractionation geometry:
 
-  - url: /assets/img/microfluidic1.png
-    image_path: assets/img/microfluidic1.png
-    alt: "Rendering 1"
+![Rendering 1](assets/img/microfluidicFormula.jpg)
 
 The parametric geometry in CAD makes it easy to adjust the device for different size particles. By determining the range of positions the particles should end up based on their theoretical streamlines, dividers can be placed to properly sort the particles. 
 There are various important geometries to consider in this model. The height of the mold should be large enough to let both particles through. However, if it is too tall then particles can stack on top of each other, potentially clogging or failing to sort correctly. Choosing a size of around 1.5x the large particle diameter should suffice. 
