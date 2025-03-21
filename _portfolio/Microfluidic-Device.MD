@@ -2,8 +2,8 @@
 title: "Microfluidic Device"
 excerpt: "Microfluidic particle seperator from Vanderbilt Additive and Polymer-based Manufacturing Class (CHBE 4200)"
 header:
-  image: /assets/img/microfluidicBanner.png
-  teaser: /assets/img/microfluidicBanner.png
+  image: /assets/img/microfluidicBanner.jpg
+  teaser: /assets/img/microfluidic2.jpg
 gallery:
   - url: /assets/img/microfluidic1.png
     image_path: assets/img/microfluidic1.png
@@ -14,6 +14,27 @@ gallery:
   - url: /assets/img/microfluidic3.png
     image_path: assets/img/microfluidic3.png
     alt: "Rendering 3"
+  - url: /assets/img/microfluidic1.jpg
+    image_path: assets/img/microfluidic1.jpg
+    alt: "Microfluidic Device Image 1"
+  - url: /assets/img/microfluidic2.jpg
+    image_path: assets/img/microfluidic2.jpg
+    alt: "Microfluidic Device Image 2"
+  - url: /assets/img/microfluidic3.jpg
+    image_path: assets/img/microfluidic3.jpg
+    alt: "Microfluidic Device Image 3"
+  - url: /assets/img/microfluidic4.jpg
+    image_path: assets/img/microfluidic4.jpg
+    alt: "Microfluidic Mold Image 1"
+  - url: /assets/img/microfluidic5.jpg
+    image_path: assets/img/microfluidic5.jpg
+    alt: "Microfluidic Mold Image 2"
+  - url: /assets/img/microfluidicSetup.jpg
+    image_path: assets/img/microfluidicSetup.jpg
+    alt: "Microfluidic Device Setup"
+  - url: /assets/img/microfluidicParticles.jpg
+    image_path: assets/img/microfluidicParticles.jpg
+    alt: "Microfluidic Particles Image 1"
 ---
 
 ## Introduction
