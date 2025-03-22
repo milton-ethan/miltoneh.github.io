@@ -37,6 +37,8 @@ gallery:
     alt: "Microfluidic Particles Image 1"
 ---
 
+<div style="max-width: 100%; width: 100vw; padding: 0; margin: 0;">
+
 ## Introduction
 Microfluidic devices are small-scale systems designed to control and process tiny fluid volumes, usually in the microliter or nanoliter range, through microscale channels. They are commonly used in biomedical research, diagnostics, and chemical analysis but can also be used in environmental monitoring, drug development, and food safety testing.
 
@@ -81,6 +83,8 @@ In an attempt to keep the flow rate between the different channels, my design in
 By shrinking the height of this channel, I equalized the areas in attempt to get exactly 1/3 of the water to go through each channel. Since flow rate is directly proportional to area and pressure, my hope was the equal cross sectional area would cause equal pressures at each inlet. (This was my attempt to tackle the challenge in the bonus, although I was more concerend with the geometry forcing equal flow rates and pressures, rather than what happened to the particles after they left my device.)
 
 It is difficult to verify exactly how effective my design decisions were unfortunately. Gravity and the tilt of the device appeared to have an extremely strong affect on which outlet the water flowed. Even when this effect was counteracted by using extremely long outlet tubes suspended in the air, the particles appeared to vary quite a lot in their entrance velocity and streamline preference, indicating some part of the process was missing that prevented the device from working properly. This could have been caused by a few things such as air in the lines creating turbulence, or possible motor vibration, tilt, or some other factor. Further troubleshooting will be required before more informed design choices can be made.
+
+</div>
 
 {% include gallery caption="Some images of my microfluidic device and mold, the CAD files, the setup, and the particles." %}
 
