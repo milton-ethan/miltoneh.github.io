@@ -14,6 +14,9 @@ gallery:
   - url: /assets/img/pliers3.jpg
     image_path: assets/img/pliers3.jpg
     alt: "Pliers Rendering 3"
+  - url: /assets/img/pliers4.jpg
+    image_path: assets/img/pliers4.jpg
+    alt: "Pliers Rendering 4"
   - url: /assets/img/pliersGif1.gif
     image_path: assets/img/pliersGif1.gif
     alt: "Quick dissasembly demonstration."
@@ -44,7 +47,12 @@ The main idea behind my design was a set of pliers that used press-fit or slidin
 The dovetailed slot and strip design allowed the TPU strips to be slotted in from the side without falling out during actuation. Multiple slots and corresponding strips were implemented so that the strips could be rearranged into larger or smaller slots to create variable stiffness.
 The result of this design was a robust set of functional pliers with a high grip strength, (tested by picking up many small resistors of a flat surface at a quick pace.)
 
+![Pliers lifting bag](/miltoneh.github.io/assets/img/pliers4.jpg)
+
+
 I knew the pliers would never need to bend more than, say, 20 degrees, and I designed my hinge joint accordingly. The pliers implement a T shaped slot that allows the two plier handle halves to slot into each other at 90 degrees from their intended orientation. This allows the pliers to be assembled with no extra tools or components in the print-in-place spirit, provides the mechanical advantage of creating two crossed levers, and makes for a smooth sliding joint with the correct tolerances. 
+
+![Pliers final result](/miltoneh.github.io/assets/img/pliers5.jpg)
 
 One design flaw I didn’t initially catch until assembly was that my pliers had no gap between the jaws when the TPU strips were in their corresponding initial slots. (I designed the pliers to be fully closed, even when the “springs” had no compression). The adjustable design easily accounted for this issue – all I had to do was put a longer TPU strip into a shorter slot to give the jaws a small initial gap. However, if I were to reprint the pliers a second time, I’d leave a few-millimeter gap between the jaws in their resting state.
 
