@@ -56,11 +56,21 @@ The final model features a reinforced handle, optimized jaw shape for gripping, 
 - **Jaw Capacity:** Variable, but generally [INSERT]
 - **Material Combination:** PLA body with flexible, adjustable TPU "spring" strips.
 
-## Print Settings
-- **Layer Height:** 0.2mm
-- **Infill:** 30%
-- **Supports:** None (designed for print-in-place functionality)
-- **Bed Adhesion:** Brim for stability
+## TPU Print Settings
+- **Nozzle Diameter:** 0.6mm
+- **Extruder Temperature:** 240C
+- **Bed Temperature:** 60C
+- **Layer Height:** 0.16-0.4mm
+- **Infill:** 25%
+- **Supports:** None needed
+
+## PLA Print Settings
+- **Nozzle Diameter:** 0.4mm
+- **Extruder Temperature:** 210 C (First layer 215 C)
+- **Bed Temperature:** 65C
+- **Layer Height:** 0.1-0.3mm
+- **Infill:** 20%
+- **Supports:** Grid style, minor support needed.
 
 ## Gallery
 {% include gallery caption="Renderings, final product, dissasembly, and pliers in action" %}
