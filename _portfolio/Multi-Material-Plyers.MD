@@ -2,30 +2,24 @@
 title: "Multi-Material Pliers"
 excerpt: "Multi-Material Pliers from Vanderbilt Additive and Polymer-based Manufacturing Class (CHBE 4200)"
 header:
-  image: /assets/img/pliersBanner.jpg
-  teaser: /assets/img/pliersTeaser.jpg
+  image: /assets/img/pliers3.jpg
+  teaser: /assets/img/pliers1.jpg
 gallery:
   - url: /assets/img/pliers1.png
-    image_path: assets/img/pliers1.png
+    image_path: assets/img/pliers1.jpg
     alt: "Pliers Rendering 1"
   - url: /assets/img/pliers2.png
-    image_path: assets/img/pliers2.png
+    image_path: assets/img/pliers2.jpg
     alt: "Pliers Rendering 2"
   - url: /assets/img/pliers3.png
-    image_path: assets/img/pliers3.png
+    image_path: assets/img/pliers3.jpg
     alt: "Pliers Rendering 3"
-  - url: /assets/img/pliersIteration1.jpg
-    image_path: assets/img/pliersIteration1.jpg
-    alt: "Pliers Prototype 1"
-  - url: /assets/img/pliersIteration2.jpg
-    image_path: assets/img/pliersIteration2.jpg
-    alt: "Pliers Prototype 2"
-  - url: /assets/img/pliersFinal.jpg
-    image_path: assets/img/pliersFinal.jpg
-    alt: "Final Pliers"
-  - url: /assets/img/pliersGIF.gif
-    image_path: assets/img/pliersGIF.gif
-    alt: "Pliers in Action"
+  - url: /assets/img/pliersGif1.gif
+    image_path: assets/img/pliersGif1.gif
+    alt: "Quick dissasembly demonstration."
+  - url: /assets/img/pliersGif2.gif
+    image_path: assets/img/pliersGif2.gif
+    alt: "The pliers in action."
 ---
 
 ## Introduction
