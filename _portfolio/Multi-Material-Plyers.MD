@@ -14,8 +14,8 @@ gallery:
   - url: /assets/img/pliers3.jpg
     image_path: assets/img/pliers3.jpg
     alt: "Pliers Rendering 3"
-  - url: /assets/img/pliers4.jpg
-    image_path: assets/img/pliers4.jpg
+  - url: /assets/img/pliers6.jpg
+    image_path: assets/img/pliers6.jpg
     alt: "Pliers Rendering 4"
   - url: /assets/img/pliersGif1.gif
     image_path: assets/img/pliersGif1.gif
