@@ -11,9 +11,9 @@ gallery:
   - url: /assets/img/phoneHolder2.jpg
     image_path: assets/img/phoneHolder2.jpg
     alt: "Full Phone Holder 2"
-  - url: /assets/img/phoneHolderTest2.jpg
-    image_path: assets/img/phoneHolderTest2.jpg
-    alt: "Full Phone Holder Test Second Image"
+  - url: /assets/img/phoneHolderTest1.jpg
+    image_path: assets/img/phoneHolderTest1.jpg
+    alt: "Full Phone Holder Test First Image"
   - url: /assets/img/phoneHolderTest3.jpg
     image_path: assets/img/phoneHolderTest3.jpg
     alt: "Full Phone Holder Test Third Image"
