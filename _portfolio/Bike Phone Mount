@@ -2,27 +2,12 @@
 title: "Bike Phone Mount"
 excerpt: "Rotating Phone Mount for Bicycle Handlebars from Vanderbilt Additive and Polymer-based Manufacturing Class (CHBE 4200)"
 header:
-  image: /assets/img/pliers3.jpg
-  teaser: /assets/img/pliers1.jpg
+  image: /assets/img/phoneHolderRendering1.png
+  teaser: /assets/img/phoneHolderRendering2.png
 gallery:
   - url: /assets/img/pliers1.jpg
     image_path: assets/img/pliers1.jpg
     alt: "Pliers Rendering 1"
-  - url: /assets/img/pliers2.jpg
-    image_path: assets/img/pliers2.jpg
-    alt: "Pliers Rendering 2"
-  - url: /assets/img/pliers3.jpg
-    image_path: assets/img/pliers3.jpg
-    alt: "Pliers Rendering 3"
-  - url: /assets/img/pliers6.jpg
-    image_path: assets/img/pliers6.jpg
-    alt: "Pliers Rendering 4"
-  - url: /assets/img/pliersGif1.gif
-    image_path: assets/img/pliersGif1.gif
-    alt: "Quick dissasembly demonstration."
-  - url: /assets/img/pliersGif2.gif
-    image_path: assets/img/pliersGif2.gif
-    alt: "The pliers in action."
 ---
 
 ## Introduction
@@ -40,7 +25,7 @@ Typical materials for print-in-place assembles might be:
 
 
 ## CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a48ae82478546fcef0?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a413b34a84c0f1fcba?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Design & Iteration
 The main idea behind my design was a set of pliers that used press-fit or sliding parts that could be printed once, and adjusted to meet a specific application. My desire to make the pliers have an adjustable stiffness led me to sacrifice the true print-in-place methodology, and instead print a set of TPU strips that acted as compression springs that could be press-fit into the dovetailed slots in the plier handles. 
@@ -59,26 +44,7 @@ One design flaw I didn’t initially catch until assembly was that my pliers had
 
 The final model features a reinforced handle, optimized jaw shape for gripping, and a resilient spring structure that retains elasticity after multiple uses.
 
-## Specifications
-- **Jaw Length:** 40mm
-- **Jaw Capacity:** Variable, but generally [INSERT]
-- **Material Combination:** PLA body with flexible, adjustable TPU "spring" strips.
 
-## TPU Print Settings
-- **Nozzle Diameter:** 0.6mm
-- **Extruder Temperature:** 240C
-- **Bed Temperature:** 60C
-- **Layer Height:** 0.16-0.4mm
-- **Infill:** 25%
-- **Supports:** None needed
-
-## PLA Print Settings
-- **Nozzle Diameter:** 0.4mm
-- **Extruder Temperature:** 210 C (First layer 215 C)
-- **Bed Temperature:** 65C
-- **Layer Height:** 0.1-0.3mm
-- **Infill:** 20%
-- **Supports:** Grid style, minor support needed.
 
 ## Gallery
 {% include gallery caption="Renderings, final product, dissasembly, and pliers in action" %}
