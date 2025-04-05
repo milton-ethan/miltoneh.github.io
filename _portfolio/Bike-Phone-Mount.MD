@@ -8,19 +8,19 @@ gallery:
   - url: /assets/img/phoneHolder1.jpg
     image_path: assets/img/phoneHolder1.jpg
     alt: "Full Phone Holder 1"
-- url: /assets/img/phoneHolder2.jpg
+  - url: /assets/img/phoneHolder2.jpg
     image_path: assets/img/phoneHolder2.jpg
     alt: "Full Phone Holder 2"
-- url: /assets/img/phoneHolderTest2.jpg
+  - url: /assets/img/phoneHolderTest2.jpg
     image_path: assets/img/phoneHolderTest2.jpg
     alt: "Full Phone Holder Test Second Image"
-- url: /assets/img/phoneHolderTest3.jpg
+  - url: /assets/img/phoneHolderTest3.jpg
     image_path: assets/img/phoneHolderTest3.jpg
     alt: "Full Phone Holder Test Third Image"
-- url: /assets/img/phoneHolderTest4.jpg
+  - url: /assets/img/phoneHolderTest4.jpg
     image_path: assets/img/phoneHolderTest4.jpg
     alt: "Full Phone Holder Test Fourth Image"
-- url: /assets/img/phoneHolderTest5.jpg
+  - url: /assets/img/phoneHolderTest5.jpg
     image_path: assets/img/phoneHolderTest5.jpg
     alt: "Full Phone Holder Test Fifth Image"
 ---
