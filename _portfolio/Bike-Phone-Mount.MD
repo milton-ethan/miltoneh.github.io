@@ -36,11 +36,21 @@ I wanted to focus on a few key elements in my design:
 ## Design & Iteration
 The main idea behind my design ...
 
-![Video 1](/miltoneh.github.io/assets/img/phoneHolderVid1.mp4)
+<video width="640" height="360" controls>
+  <source src="/assets/img/phoneHolderVid1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="640" height="360" controls>
+  <source src="/assets/img/phoneHolderVid2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+![Test 1](/miltoneh.github.io/assets/img/phoneHolderTest1.jpg)
 
 
 
-![Video 2](/miltoneh.github.io/assets/img/phoneHolderVid2.mp4)
+![Test 2](/miltoneh.github.io/assets/img/phoneHolderTest2.jpg)
 
 Blah Blah...
 
