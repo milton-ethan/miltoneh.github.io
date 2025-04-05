@@ -11,9 +11,6 @@ gallery:
   - url: /assets/img/phoneHolder2.jpg
     image_path: assets/img/phoneHolder2.jpg
     alt: "Full Phone Holder 2"
-  - url: /assets/img/phoneHolderTest1.jpg
-    image_path: assets/img/phoneHolderTest1.jpg
-    alt: "Full Phone Holder Test First Image"
   - url: /assets/img/phoneHolderTest3.jpg
     image_path: assets/img/phoneHolderTest3.jpg
     alt: "Full Phone Holder Test Third Image"
@@ -23,6 +20,12 @@ gallery:
   - url: /assets/img/phoneHolderTest5.jpg
     image_path: assets/img/phoneHolderTest5.jpg
     alt: "Full Phone Holder Test Fifth Image"
+  - url: /assets/img/phoneHolderVid1.mp4
+    image_path: assets/img/phoneHolderVid1.mp4
+    alt: "Full Phone Holder Video 1"
+  - url: /assets/img/phoneHolderVid2.mp4
+    image_path: assets/img/phoneHolderVid2.mp4
+    alt: "Full Phone Holder Video 2"
 ---
 
 ## Introduction
