@@ -36,12 +36,12 @@ I wanted to focus on a few key elements in my design:
 ## Design & Iteration
 The main idea behind my design ...
 
-<video width="640" height="360" controls>
+<video width="360" height="640" controls>
   <source src="/assets/img/phoneHolderVid1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-<video width="640" height="360" controls>
+<video width="480" height="854" controls>
   <source src="/assets/img/phoneHolderVid2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
