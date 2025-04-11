@@ -6,7 +6,7 @@ header:
   teaser: /assets/img/phoneHolderRendering2.png
 gallery:
   - url: /assets/img/phoneHolder1.jpg
-    image_path: /assets/img/phoneHolder.jpg
+    image_path: /assets/img/phoneHolder1.jpg
     alt: "Full Phone Holder 1"
   - url: /assets/img/phoneHolder2.jpg
     image_path: /assets/img/phoneHolder2.jpg
