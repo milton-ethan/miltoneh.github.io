@@ -55,7 +55,8 @@ To ensure my detent mechanism would function as anticipated, and that I had the 
 <br>
 The detent and the retaining disk worked like a charm, but my press fit was a little loose, leading me to tighten the tolerance ever so slightly. Since PLA will tend to warp a bit (much more than with SLS printing), I used calipers to make sure I was getting real measurements off my test print instead of relying off the dimensions in CAD.
 
-The result of these test prints and caution was a rigid stable phone mount with full functionality on the first print! 
+The result of these test prints and caution was a rigid stable phone mount with full functionality on the first print!
+A model such as this one is bound to have many complex geometries, meaning an FFF print would need a large number of support structures from virtually any angle. Even with assembly relatively broken up into pieces, some of the complex geometries were relatively unavoidable. Additionally, the part needed to be strong, and large enough to hold my phone at a comfortable distance from the handlebars, meaning I wanted a high build volume and a high density. These factors make a nice case for [Selective Laser Sintering (SLS Printing)](https://formlabs.com/blog/what-is-selective-laser-sintering/?srsltid=AfmBOop8TNjKLfieWB065xhtorwYtxqMb4hfIKimLbnvbz49nHuvWLp1), a printing technology that uses a laser to fuse nylon powder particles together to create a 100% dense part with no need for support structures. The tradeoff, of course, as with most SLS prints, is the parts must be post-processed to remove the residual powder.
 
 <div style="text-align: center;">
   <img src="/miltoneh.github.io/assets/img/phoneHolderFinal.jpg" width="45%" style="display: inline-block; margin: 0 2%;" />
