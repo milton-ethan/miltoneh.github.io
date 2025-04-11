@@ -79,7 +79,7 @@ Check out the print in action!
     Your browser does not support the video tag.
   </video>
 </div>
-
+<br>
 Here's a few images of my final product from other angles.
 
 
