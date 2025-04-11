@@ -36,28 +36,38 @@ I wanted to focus on a few key elements in my design:
 ## Design & Iteration
 The main idea behind my design ...
 
-<video width="360" height="640" controls>
-  <source src="/miltoneh.github.io/assets/img/phoneHolderVid1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<video width="360" height="640" controls>
-  <source src="/miltoneh.github.io/assets/img/phoneHolderVid2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 To ensure my detent mechanism would function as anticipated, and that I had the right tolerance to press-fit my phone into the holder, I printed some test pieces out of PLA. This also let me test how effective my idea of using a heat set insert to screw in a retaining disk to hold the detent mechanism was. 
 
-![Test 1](/miltoneh.github.io/assets/img/phoneHolderTest1.jpg)
-![Test 2](/miltoneh.github.io/assets/img/phoneHolderTest2.jpg)
-
-
-<p float="left">
-  <img src="/miltoneh.github.io/assets/img/phoneHolderTest1.jpg" width="45%" />
-  <img src="/miltoneh.github.io/assets/img/phoneHolderTest2.jpg" width="45%" />
-</p>
+<div style="text-align: center;">
+  <img src="/miltoneh.github.io/assets/img/phoneHolderTest1.jpg" width="45%" style="display: inline-block; margin: 0 2%;" />
+  <img src="/miltoneh.github.io/assets/img/phoneHolderTest2.jpg" width="45%" style="display: inline-block; margin: 0 2%;" />
+</div>
 
 The detent and the retaining disk worked like a charm, but my press fit was a little loose, leading me to tighten the tolerance ever so slightly. Since PLA will tend to warp sligthly (much more than with SLS printing), I used calipers to make sure I was getting real measurements off my test print instead of relying off the dimensions in CAD.
+
+The result of these test prints and caution was a rigid stable phone mount with full functionality on the first print! 
+
+<div style="text-align: center;">
+  <img src="/miltoneh.github.io/assets/img/phoneHolderFinal1.jpg" width="45%" style="display: inline-block; margin: 0 2%;" />
+  <img src="/miltoneh.github.io/assets/img/phoneHolderFinal2.jpg" width="45%" style="display: inline-block; margin: 0 2%;" />
+  <img src="/miltoneh.github.io/assets/img/phoneHolderFinal3.jpg" width="45%" style="display: inline-block; margin: 0 2%;" />
+</div>
+
+Since SLS printing is more costly and labor intensive than standard FFF printing, it's important to be sure you have a good idea of how your part is going to turn out before pressing print. This, to me, illustrates why having a diverse range of rapid prototyping technologies is so beneficial.
+Check out the print in action!
+
+<div style="text-align: center;">
+  <video width="360" height="640" controls style="display: inline-block; margin: 0 2%;">
+    <source src="/miltoneh.github.io/assets/img/phoneHolderVid1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <video width="360" height="640" controls style="display: inline-block; margin: 0 2%;">
+    <source src="/miltoneh.github.io/assets/img/phoneHolderVid2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 Blah Blah...
 
