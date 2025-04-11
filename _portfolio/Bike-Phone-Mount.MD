@@ -5,17 +5,17 @@ header:
   image: /assets/img/phoneHolderRendering1.png
   teaser: /assets/img/phoneHolderRendering2.png
 gallery:
-  - url: /miltoneh.github.io/assets/img/phoneHolder1.jpg
-    image_path: /miltoneh.github.io/assets/img/phoneHolder.jpg
+  - url: /assets/img/phoneHolder1.jpg
+    image_path: /assets/img/phoneHolder.jpg
     alt: "Full Phone Holder 1"
-  - url: /miltoneh.github.io/assets/img/phoneHolder2.jpg
-    image_path: /miltoneh.github.io/assets/img/phoneHolder2.jpg
+  - url: /assets/img/phoneHolder2.jpg
+    image_path: /assets/img/phoneHolder2.jpg
     alt: "Full Phone Holder 2"
   - url: /miltoneh.github.io/assets/img/phoneHolderTest4.jpg
-    image_path: /miltoneh.github.io/assets/img/phoneHolderTest4.jpg
+    image_path: /assets/img/phoneHolderTest4.jpg
     alt: "Full Phone Holder Test Third Image"
-  - url: /miltoneh.github.io/assets/img/phoneHolderTest5.jpg
-    image_path: /miltoneh.github.io/assets/img/phoneHolderTest5.jpg
+  - url: /assets/img/phoneHolderTest5.jpg
+    image_path: /assets/img/phoneHolderTest5.jpg
     alt: "Full Phone Holder Test Fourth Image"
 ---
 
