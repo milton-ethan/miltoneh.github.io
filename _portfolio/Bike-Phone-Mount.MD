@@ -46,11 +46,18 @@ The main idea behind my design ...
   Your browser does not support the video tag.
 </video>
 
+To ensure my detent mechanism would function as anticipated, and that I had the right tolerance to press-fit my phone into the holder, I printed some test pieces out of PLA. This also let me test how effective my idea of using a heat set insert to screw in a retaining disk to hold the detent mechanism was. 
+
 ![Test 1](/miltoneh.github.io/assets/img/phoneHolderTest1.jpg)
-
-
-
 ![Test 2](/miltoneh.github.io/assets/img/phoneHolderTest2.jpg)
+
+
+<p float="left">
+  <img src="/miltoneh.github.io/assets/img/phoneHolderTest1.jpg" width="45%" />
+  <img src="/miltoneh.github.io/assets/img/phoneHolderTest2.jpg" width="45%" />
+</p>
+
+The detent and the retaining disk worked like a charm, but my press fit was a little loose, leading me to tighten the tolerance ever so slightly. Since PLA will tend to warp sligthly (much more than with SLS printing), I used calipers to make sure I was getting real measurements off my test print instead of relying off the dimensions in CAD.
 
 Blah Blah...
 
