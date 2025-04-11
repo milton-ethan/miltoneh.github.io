@@ -52,8 +52,8 @@ To ensure my detent mechanism would function as anticipated, and that I had the 
 
 
 <div style="text-align: center;">
-  <img src="/miltoneh.github.io/assets/img/phoneHolderTest1.jpg" width="45%" style="display: inline-block; margin: 0 2%;" />
-  <img src="/miltoneh.github.io/assets/img/phoneHolderTest2.jpg" width="45%" style="display: inline-block; margin: 0 2%;" />
+  <img src="/miltoneh.github.io/assets/img/phoneHolderTest1.jpg" width="60%" style="display: inline-block; margin: 0 2%;" />
+  <img src="/miltoneh.github.io/assets/img/phoneHolderTest2.jpg" width="60%" style="display: inline-block; margin: 0 2%;" />
 </div>
 
 
