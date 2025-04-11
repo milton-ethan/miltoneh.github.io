@@ -52,7 +52,7 @@ To ensure my detent mechanism would function as anticipated, and that I had the 
   <img src="/miltoneh.github.io/assets/img/phoneHolderTest1.jpg" width="45%" style="display: inline-block; margin: 0 2%;" />
   <img src="/miltoneh.github.io/assets/img/phoneHolderTest2.jpg" width="45%" style="display: inline-block; margin: 0 2%;" />
 </div>
-
+<br>
 The detent and the retaining disk worked like a charm, but my press fit was a little loose, leading me to tighten the tolerance ever so slightly. Since PLA will tend to warp a bit (much more than with SLS printing), I used calipers to make sure I was getting real measurements off my test print instead of relying off the dimensions in CAD.
 
 The result of these test prints and caution was a rigid stable phone mount with full functionality on the first print! 
@@ -62,8 +62,7 @@ The result of these test prints and caution was a rigid stable phone mount with 
   <img src="/miltoneh.github.io/assets/img/phoneHolderFinal2.jpg" width="45%" style="display: inline-block; margin: 0 2%;" />
   <img src="/miltoneh.github.io/assets/img/phoneHolderFinal3.jpg" width="45%" style="display: inline-block; margin: 0 2%;" />
 </div>
-
-
+<br>
 Since SLS printing is more costly and labor intensive than standard FFF printing, it's important to be sure you have a good idea of how your part is going to turn out before pressing print. This, to me, illustrates why having a diverse range of rapid prototyping technologies is so beneficial.
 
 Check out the print in action!
@@ -80,7 +79,7 @@ Check out the print in action!
   </video>
 </div>
 
-Blah Blah...
+Here's a few images of my final product from other angles.
 
 
 ## Gallery
