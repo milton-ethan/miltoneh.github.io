@@ -20,6 +20,18 @@ gallery:
   - url: /assets/img/handTop.jpg
     image_path: /assets/img/handTop.jpg
     alt: "Top View of Hand Holder"
+  - url: /assets/img/handForces2.jpg
+    image_path: /assets/img/handForces2.jpg
+    alt: "Hand Forces Image 2"
+  - url: /assets/img/handForces3.jpg
+    image_path: /assets/img/handForces3.jpg
+    alt: "Hand Forces Image 3"
+  - url: /assets/img/handForces4.jpg
+    image_path: /assets/img/handForces4.jpg
+    alt: "Hand Forces Image 4"
+  - url: /assets/img/handForces5.jpg
+    image_path: /assets/img/handForces5.jpg
+    alt: "Hand Forces Image 5"
 ---
 
 ## Introduction
