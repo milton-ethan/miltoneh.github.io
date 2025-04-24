@@ -1,6 +1,6 @@
 ---
-title: "Bike Phone Mount"
-excerpt: "Rotating Phone Mount for Bicycle Handlebars from Vanderbilt Additive and Polymer-based Manufacturing Class (CHBE 4200)"
+title: "Generative Design Bookshelf Sculpture"
+excerpt: "Load bearing hand sculpture created using generative design from Vanderbilt Additive and Polymer-based Manufacturing Class (CHBE 4200)"
 header:
   image: /assets/img/handBanner.jpg
   teaser: /assets/img/hand2.jpg
