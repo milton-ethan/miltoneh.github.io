@@ -40,9 +40,9 @@ This project gave students an open ended opportunity to create a generative desi
 <div style="text-align: center;">
   <img src="/miltoneh.github.io/assets/img/hand2.jpg" width="100%" style="display: inline-block; margin: 0 2%;" />
 </div>
-
+<br><br>
 # Preserve and Obstacle Geometry
-To create my model, I knew I needed a human hand as a starting shape and for preserve geometries. Finding one online on GrabCAD, I tweaked the finger placements to support a flat surface, then cut a flat plane through the fingertips to give them a bit more purchase. I knew the fingertips, at a bare minimum, would need to be preserve geometry, since they are where the load on the sculpture is applied, and where the books rest. I also knew that without a place to secure the sculpture to some sort of a base plate, the entire thing would fall over. To remedy this, I cut some countersunk holes into the wrist of the sculpture, which became my second preserve geometry.
+To create my model, I knew I needed a human hand as a starting shape and for preserve geometries. Finding [one online](https://grabcad.com/library/human-left-hand) on GrabCAD, I tweaked the finger placements to support a flat surface, then cut a flat plane through the fingertips to give them a bit more purchase. I knew the fingertips, at a bare minimum, would need to be preserve geometry, since they are where the load on the sculpture is applied, and where the books rest. I also knew that without a place to secure the sculpture to some sort of a base plate, the entire thing would fall over. To remedy this, I cut some countersunk holes into the wrist of the sculpture, which became my second preserve geometry.
 <br><br>
 <div style="text-align: center;">
   <img src="/miltoneh.github.io/assets/img/handFasteners.jpg" width="100%" style="display: inline-block; margin: 0 2%;" />
@@ -53,7 +53,7 @@ With these preserves set, and the entire hand as my starting-shape, I started my
 <div style="text-align: center;">
   <img src="/miltoneh.github.io/assets/img/handForces1.jpg" width="100%" style="display: inline-block; margin: 0 2%;" />
 </div>
-
+<br><br>
 # Load Case Application and Structural Constraints
 The first and most obvious load case for the project was that of the books on the fingertips. A typical hardcover book weighs from 1-3 lbs, and I wanted the sculpture to be able to hold up 4-5 books safely. In light of this, I divided a 12 lb force across the five fingertips. Since the entire wrist section where the sculpture fastened to a base plate was a preserve geometry, I didn’t feel the need to apply any forces on it. 
 <br><br>
@@ -67,9 +67,9 @@ Once the generative study solved, a little bit of tailoring was needed - namely 
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a492558adfd4f2f8e4?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
+<br><br>
 # Critique of Generative Design
-While visually interesting, it is important to know when generative design is useful and when it is not. Depending on the aesthetic of your model, generative design may produce very unnatural and undesirable results, for starters. (Many people confessed finding my hand creepy, though that was rather intentional on my part, and I took no offense.) Additionally, while minimizing materials while maintaining load bearing capabilities can be fantastic in additive manufacturing, it can be quite impractical in a subtractive workflow. The complex geometries created by generative design will be difficult to manufacture, which will increase time and cost, while also “wasting” more material, unless the removed stock can be reused. If a block of steel works great for an application, it probably isn’t worth the risk or the cost of trying to improve it. Still, for 3D printing or molds, the technology provides an incredible opportunity to reduce cost, create a more natural or “organic” looking form, and gain a competitive edge. I wouldn’t be surprised to see more generative bridges in the future.
+While visually interesting, it is important to know when generative design is useful and when it is not. Depending on the aesthetic of your model, generative design may produce very unnatural and undesirable results, for starters. (Many people confessed finding my hand creepy, though that was rather intentional on my part, and I took no offense.) Additionally, while minimizing materials while maintaining load bearing capabilities can be fantastic in additive manufacturing, it can be quite impractical in a subtractive workflow. The complex geometries created by generative design will be difficult to manufacture, which will increase time and cost, while also “wasting” more material, unless the removed stock can be reused. If a block of steel works great for an application, it probably isn’t worth the risk or the cost of trying to improve it. Still, for 3D printing or molds, the technology provides an incredible opportunity to reduce cost, create a more natural or “organic” looking form, and gain a competitive edge. I wouldn’t be surprised to see more [generative bridges](https://all3dp.com/3d-printed-pedestrian-bridge/) in the future.
 <br><br>
 The generative design process for this project was extremely iterative. The technology is still developing, and for all its charms, the generative space on Fusion360 has just as many quirks. Fusion didn’t seem to like my using pressure instead of point loads, leading me to create sideways preserve geometries somewhat arbitrarily. I would have liked to see a type of load that told the software the farthest points of a model along a certain axis would experience a force, without needing to turn that force into a preserve geometry. (I don’t care what the side of the hand looks like, so long as it doesn’t snap when it’s bumped into.) Getting the look I needed consisted of repeatedly cloning the previous study, tweaking something about the preserve geometries or the loads until the solver decided to behave or I got the look I wanted. Still, I find the technology fascinating and with definite room for improvement, I’m already thinking of new projects to try in the name of keeping my skills sharp for the future.
 <br><br>
